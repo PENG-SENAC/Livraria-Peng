@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: br.senac.peng.livraria.teste.TesteBancoDeDados
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 1, Time elapsed: 0.13 sec
